@@ -6,7 +6,7 @@ from . import models
 class CreateDataset(forms.ModelForm):
     class Meta:
         model = models.Dataset
-        fields = ['name', 'data', ]
+        fields = ['name', 'file', ]
 
 
 class SearchForm(forms.Form):

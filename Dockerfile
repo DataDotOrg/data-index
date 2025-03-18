@@ -1,4 +1,4 @@
-FROM python:3.11-slim-buster
+FROM python:3.13-slim-bullseye
 
 WORKDIR /usr/src/app
 
@@ -12,7 +12,7 @@ RUN apt-get update && \
 
 RUN pip install --upgrade pip
 COPY ./requirements.txt .
-RUN pip install -r farewell.env
+RUN pip install -r requirements.txt
 
 COPY ./entrypoint.sh .
 COPY ./db.sqlite3 .

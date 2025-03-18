@@ -1,0 +1,27 @@
+{% extends 'main/base.html' %}
+
+{% block content %}
+    <h1 class="text-2xl font-bold text-gray-700 mb-4">New Dataset</h1>
+    <form method="post" class="bg-white p-6 rounded-lg shadow-md space-y-4" enctype="multipart/form-data">
+        {% csrf_token %}
+
+        <div>
+            <label for="name" class="block text-sm font-medium text-gray-700">Dataset Name:</label>
+            <input type="text" id="name" name="name" required class="w-full p-2 border rounded-lg focus:ring focus:ring-blue-400" value="{{ form.name.value }}"/>
+        </div>
+
+        <div>
+            <label for="description" class="block text-sm font-medium text-gray-700">Description:</label>
+            <textarea id="description" name="description" rows="4" required class="w-full p-2 border rounded-lg focus:ring focus:ring-blue-400">{{ form.description.value }}</textarea>
+        </div>
+
+        <div>
+            <label for="file" class="block text-sm font-medium text-gray-700">Upload File:</label>
+            <input type="file" id="file" name="file" required class="w-full p-2 border rounded-lg focus:ring focus:ring-blue-400">
+        </div>
+
+        <div class="flex justify-end">
+            <input type="submit" value="Submit" class="bg-blue-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600 cursor-pointer">
+        </div>
+    </form>
+{% endblock content %}

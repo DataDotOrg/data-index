@@ -2,9 +2,16 @@ services:
   web:
     build: .
     platform: linux/amd64
-    command: python manage.py runserver 8765
+    command: python manage.py runserver 0.0.0.0:8765
     volumes:
       - .:/usr/src/app
       - ./media:/usr/src/app/media
       - ./staticfiles:/usr/src/app/staticfiles
+    ports:
+      - "8765:8765"
+    develop:
+      watch:
+        - action: sync
+          path: .
+          target: /usr/src/app
 
