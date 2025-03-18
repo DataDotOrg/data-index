@@ -6,3 +6,8 @@ from . import models
 class CreateDataset(forms.ModelForm):
     class Meta:
         model = models.Dataset
+        fields = ['name', 'data', ]
+
+
+class SearchForm(forms.Form):
+    search = forms.CharField(max_length=100)

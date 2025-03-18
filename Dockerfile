@@ -11,12 +11,11 @@ RUN apt-get update && \
     apt-get install -y netcat
 
 RUN pip install --upgrade pip
-COPY ./farewell.env .
+COPY ./requirements.txt .
 RUN pip install -r farewell.env
 
 COPY ./entrypoint.sh .
-COPY ./cert.crt .
-COPY ./cert.key .
+COPY ./db.sqlite3 .
 RUN chmod +x /usr/src/app/entrypoint.sh
 
 COPY . .

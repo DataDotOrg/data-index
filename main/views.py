@@ -19,7 +19,7 @@ class NewDataset(CreateView):
         context['title'] = 'New Dataset'
         return context
 
-class DataDetails(DetailView):
+class DatasetDetail(DetailView):
     model = models.Dataset
     template_name = 'main/data_detail.html'
     context_object_name = 'data'
