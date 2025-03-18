@@ -1,6 +1,7 @@
 from django import http
+from django.template.defaultfilters import ljust
 from django.views.generic import TemplateView, CreateView, FormView, DetailView, ListView
-
+import yaml
 from . import models, forms
 
 
@@ -41,11 +42,15 @@ class NewDataset(CreateView):
 class DatasetDetail(DetailView):
     model = models.Dataset
     template_name = 'main/data_detail.html'
-    context_object_name = 'data'
+    context_object_name = 'dataset'
+    slug_url_kwarg = 'dataset'
 
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
         context['title'] = 'Data Details'
+        with open(self.object.file.path) as file:
+            data = yaml.safe_load(file)
+        context['file_contents'] = yaml.dump(data, default_flow_style=False)
         return context
 
 
