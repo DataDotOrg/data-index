@@ -1,0 +1,10 @@
+services:
+  web:
+    build: .
+    platform: linux/amd64
+    command: python manage.py runserver 8765
+    volumes:
+      - .:/usr/src/app
+      - ./media:/usr/src/app/media
+      - ./staticfiles:/usr/src/app/staticfiles
+
