@@ -1,0 +1,27 @@
+{% extends 'main/base.html' %}
+
+{% block content %}
+<div class="container mt-5">
+    <h1 class="h3 text-primary mb-4">New Dataset</h1>
+    <div class="row">
+        <div class="col-sm-6 mb-3 mb-sm-0">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">I have the data schema</h5>
+                    <p class="card-text">Select this option if you have a YAML or JSON schema derived from your data.</p>
+                    <a href="{% url 'main:create_dataset_schema' %}" class="btn btn-primary">Go schema</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">I do not have the data schema</h5>
+                    <p class="card-text">Select this option if you do not a corresponding YAML or JSON schema derived from your data. We will generate one for you.</p>
+                    <a href="{% url 'main:create_dataset_no_schema' %}" class="btn btn-primary">Go no schema</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock content %}

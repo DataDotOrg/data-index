@@ -1,20 +1,41 @@
 {% extends 'main/base.html' %}
 
 {% block content %}
-    <div class="w-full max-w-lg p-4">
-        <div class="mb-4">
-            <input type="text" placeholder="Search..." class="w-full p-3 border rounded-lg shadow-md focus:outline-none focus:ring-2 focus:ring-blue-400">
-        </div>
-        <div class="bg-white p-6 rounded-lg shadow-md">
-            <h1 class="text-2xl font-bold text-gray-700">Available Datasets</h1>
-            <ul class="mt-4 space-y-4">
-                {% for dataset in datasets %}
-                    <li class="p-4 border rounded-lg bg-gray-50">
-                        <h2 class="text-lg font-semibold"><a href="{% url 'main:dataset_detail' dataset.slug %}">{{ dataset.name }}</a></h2>
-                        <p class="text-gray-600">{{ dataset.description }}</p>
-                    </li>
-                {% endfor %}
-            </ul>
-        </div>
+<div class="container mt-5">
+    <div class="mb-4">
+        <input type="text" id="searchBox" placeholder="Search..." class="form-control">
     </div>
+    <div class="card p-4 shadow-sm">
+        <h1 class="h4 text-primary">Available Datasets</h1>
+        <table id="datasetTable" class="table table-striped mt-3">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for dataset in datasets %}
+                    <tr>
+                        <td><a href="{% url 'main:dataset_detail' dataset.slug %}" class="text-decoration-none">{{ dataset.name }}</a></td>
+                        <td>{{ dataset.description }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+<script>
+    $(document).ready(function() {
+        var table = $('#datasetTable').DataTable({
+            "paging": true,  // Enable pagination
+            "ordering": true, // Enable column sorting
+            "info": true     // Show info like "Showing 1-10 of 50 entries"
+        });
+
+        $('#searchBox').on('input', function() {
+            table.search($(this).val()).draw();
+        });
+    });
+</script>
 {% endblock content %}

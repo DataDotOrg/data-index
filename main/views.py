@@ -2,7 +2,11 @@ from django import http
 from django.template.defaultfilters import ljust
 from django.views.generic import TemplateView, CreateView, FormView, DetailView, ListView
 import yaml
+from random_words import RandomWords, LoremIpsum
 from . import models, forms
+from django.conf import settings
+rw = RandomWords()
+li = LoremIpsum()
 
 
 class Index(ListView):
@@ -16,10 +20,18 @@ class Index(ListView):
         return context
 
 
-class NewDataset(CreateView):
+class NewChoose(TemplateView):
+    template_name = 'main/choose_datatype.html'
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context['title'] = 'Choose Data Type'
+        return context
+
+class NewDatasetSchema(CreateView):
     model = models.Dataset
-    fields = ['name', 'description', 'file']
-    template_name = 'main/new_dataset.html'
+    form_class = forms.CreateDatasetSchema
+    template_name = 'main/new_dataset_schema.html'
     success_url = '/'
 
     def get_context_data(self, **kwargs):
@@ -29,14 +41,31 @@ class NewDataset(CreateView):
 
     def get_initial(self):
         initial = super().get_initial()
-        initial['name'] = 'My Dataset'
-        initial['description'] = 'This is a dataset'
+        if settings.USE_RANDOM_DATA:
+            initial['name'] = ' '.join(rw.random_words(count=2))
+            initial['description'] = li.get_sentences(2)
+            initial['url'] = f"https://{'-'.join(rw.random_words(count=2))}.com"
         return initial
 
-    def form_valid(self, form):
-        dataset = form.save()
-        print(dataset)
-        return http.HttpResponseRedirect(self.success_url)
+
+class NewDatasetNoSchema(CreateView):
+    model = models.Dataset
+    form_class = forms.CreateDatasetNoSchema
+    template_name = 'main/new_dataset_no_schema.html'
+    success_url = '/'
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context['title'] = 'New Dataset'
+        return context
+
+    def get_initial(self):
+        initial = super().get_initial()
+        if settings.USE_RANDOM_DATA:
+            initial['name'] = ' '.join(rw.random_words(count=2))
+            initial['description'] = li.get_sentences(2)
+            initial['url'] = f"https://{'-'.join(rw.random_words(count=2))}.com"
+        return initial
 
 
 class DatasetDetail(DetailView):
@@ -54,20 +83,3 @@ class DatasetDetail(DetailView):
         return context
 
 
-class Search(FormView):
-    form_class = forms.SearchForm
-    template_name = 'main/search.html'
-
-    def get_context_data(self, **kwargs):
-        context = super().get_context_data(**kwargs)
-        context['title'] = 'Search'
-        return context
-
-
-class SearchResults(TemplateView):
-    template_name = 'main/search_results.html'
-
-    def get_context_data(self, **kwargs):
-        context = super().get_context_data(**kwargs)
-        context['title'] = 'Search Results'
-        return context

@@ -8,6 +8,7 @@ class Dataset(models.Model):
     slug = models.SlugField(max_length=110, null=True)
     description = models.TextField(null=True, blank=True)
     file = models.FileField(upload_to='media/')
+    url = models.URLField(null=True, blank=True)
     date = models.DateTimeField(auto_now_add=True, null=True)
 
     def __str__(self):

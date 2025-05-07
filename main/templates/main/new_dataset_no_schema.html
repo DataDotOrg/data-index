@@ -1,0 +1,36 @@
+{% extends 'main/base.html' %}
+
+{% block content %}
+<div class="container mt-5">
+    <h1 class="h3 text-primary mb-4">New Dataset</h1>
+    <div class="card p-4 shadow-sm">
+        <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+
+            <div class="mb-3">
+                {{ form.name.label }}
+                {{ form.name }}
+            </div>
+
+            <div class="mb-3">
+                {{ form.description.label }}
+                {{ form.description}}
+            </div>
+
+            <div class="mb-3">
+                {{ form.file.label }}
+                {{ form.file }}
+            </div>
+
+            <div class="mb-3">
+                {{ form.url.label }}
+                {{ form.url }}
+            </div>
+
+            <div class="text-end">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>
+{% endblock content %}

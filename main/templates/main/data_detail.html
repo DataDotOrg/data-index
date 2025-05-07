@@ -1,12 +1,12 @@
 {% extends 'main/base.html' %}
 
-
 {% block content %}
-<div class="max-w-4xl mx-auto">
-    <div class="bg-white p-6 mb-4 rounded-lg shadow-md">
-        <h2 class="text-xl font-semibold text-gray-700">{{ dataset.name }}</h2>
-        <p class="text-gray-600">{{ dataset.description }}</p>
-        <pre class="bg-gray-50 p-4 mt-2 rounded-lg text-sm text-gray-700 overflow-x-auto">{{ file_contents }}</pre>
+<div class="container mt-5">
+    <div class="card p-4 shadow-sm">
+        <h2 class="h4 text-primary">{{ dataset.name }}</h2>
+        <p class="text-muted">{{ dataset.description }}</p>
+        <p class="text-muted"><a href="{{ dataset.url }}" target="_blank">Get data</a></p>
+        <pre class="bg-light p-3 mt-2 rounded border overflow-auto">{{ file_contents }}</pre>
     </div>
 </div>
 {% endblock content %}
