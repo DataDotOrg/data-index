@@ -1,0 +1,250 @@
+"preprint_date","pathogen","title","repo","link","pmid","journal","publisher","pub_type","new_data","new_analysis"
+2014-08-15,"ebola","Estimating the reproduction number of Ebola virus (EBOV) during the 2014 outbreak in West Africa","arxiv","http://arxiv.org/abs/1408.3505v4","25642364","PLoS Curr","PLOS","Journal Article",0,1
+2014-09-16,"ebola","Modeling the Impact of Interventions on an Epidemic of Ebola in Sierra Leone and Liberia","arxiv","http://arxiv.org/abs/1409.4607v2","25685630","PLoS Curr","PLOS","Journal Article",0,1
+2014-09-26,"ebola","Filovirus Glycoprotein Sequence, Structure and Virulence","arxiv","http://arxiv.org/abs/1410.1417v1",NA,NA,NA,NA,NA,NA
+2014-10-14,"ebola","A Model of the 2014 Ebola Epidemic in West Africa with Contact Tracing","arxiv","http://arxiv.org/abs/1410.3817v2","25685636","PLoS Curr","PLOS","Journal Article",0,1
+2014-10-14,"ebola","Guiding Ebola Patients to Suitable Health Facilities: An SMS-based Approach","arxiv","http://arxiv.org/abs/1410.3576v1","25789162","F1000Res","F1000","Journal Article",0,0
+2014-10-20,"ebola","Description of the Early Growth Dynamics of 2014 West Africa Ebola Epidemic","arxiv","http://arxiv.org/abs/1410.5409v1","25685614","PLoS Curr","PLOS","Journal Article",0,1
+2014-10-22,"ebola","Be-CoDiS: A mathematical model to predict the risk of human diseases spread between countries. Validation and application to the 2014-15 Ebola Virus Disease epidemic","arxiv","http://arxiv.org/abs/1410.6153v5","26449916","Bull Math Biol",NA,"Journal Article",0,1
+2014-10-30,"ebola","The Potential Impact of Increased Hospital Capacity to Contain and Control Ebola in Liberia","arxiv","http://arxiv.org/abs/1410.8207v1",NA,NA,NA,NA,NA,NA
+2014-10-30,"ebola","Ebola cases and health system demand in Liberia","arxiv","http://arxiv.org/abs/1410.8564v1","25585384","PLoS Biol","PLOS","Journal Article",0,1
+2014-11-04,"ebola","Correlating the ability of VP24 protein from Ebola and Marburg viruses to bind human karyopherin to their immune suppression mechanism and pathogenicity using computational methods","F1000Res","http://dx.doi.org/10.12688/f1000research.5666.1",NA,"F1000Res","F1000",NA,NA,NA
+2014-11-06,"ebola","Why are public health authorities not concerned about Ebola in the US? Part I. Fat tailed distributions","arxiv","http://arxiv.org/abs/1411.1472v1",NA,NA,NA,NA,NA,NA
+2014-11-06,"ebola","Epidemiological and evolutionary analysis of the 2014 Ebola virus outbreak","arxiv","http://arxiv.org/abs/1411.1722v1",NA,NA,NA,NA,NA,NA
+2014-11-06,"ebola","Epidemiological and evolutionary analysis of the 2014 Ebola virus outbreak","biorxiv","http://dx.doi.org/10.1101/011171",NA,NA,NA,NA,NA,NA
+2014-11-11,"ebola","Viral Misinformation: The Role of Homophily and Polarization","arxiv","http://arxiv.org/abs/1411.2893v1",NA,NA,NA,NA,NA,NA
+2014-11-13,"ebola","Post-death Transmission of Ebola: Challenges for Inference and Opportunities for Control","arxiv","http://arxiv.org/abs/1411.3435v1","25736239","Sci Rep","Springer Nature","Journal Article",0,1
+2014-11-14,"ebola","Increased evolutionary rate in the 2014 West African Ebola outbreak is due to transient polymorphism and not positive selection","biorxiv","http://dx.doi.org/10.1101/011429",NA,NA,NA,NA,NA,NA
+2014-11-17,"ebola","Similarity Is Not Enough: Tipping Points of Ebola Zaire Mortalities","arxiv","http://arxiv.org/abs/1503.01096v1",NA,NA,NA,NA,NA,NA
+2014-11-26,"ebola","The Western Africa Ebola virus disease epidemic exhibits both global exponential and local polynomial growth rates","arxiv","http://arxiv.org/abs/1411.7364v3","25685633","PLoS Curr","PLOS","Journal Article",0,1
+2014-12-01,"ebola","Multi-scale Population and Mobility Estimation with Geo-tagged Tweets","arxiv","http://arxiv.org/abs/1412.0327v1",NA,NA,NA,NA,NA,NA
+2014-12-02,"ebola","Avoidable errors in the modeling of outbreaks of emerging pathogens, with special reference to Ebola","arxiv","http://arxiv.org/abs/1412.0968v5","25833863","Proc Biol Sci",NA,"Journal Article",0,1
+2014-12-04,"ebola","Dynamics of Ebola epidemics in West Africa 2014","arxiv","http://arxiv.org/abs/1412.1579v2","26834975","F1000Res","F1000","Journal Article",0,1
+2014-12-29,"ebola","High-resolution genomic surveillance of 2014 ebolavirus using shared subclonal variants","biorxiv","http://dx.doi.org/10.1101/013318","25737802",NA,NA,"Journal Article",0,1
+2014-12-31,"ebola","Sample NLPDE and NLODE Social-Media Modeling of Information Transmission for Infectious Diseases:Case Study Ebola","arxiv","http://arxiv.org/abs/1501.00198v1",NA,NA,NA,NA,NA,NA
+2015-01-08,"ebola","A model selection approach for multiple sequence segmentation and dimensionality reduction","arxiv","http://arxiv.org/abs/1501.01756v1",NA,NA,NA,NA,NA,NA
+2015-01-12,"ebola","The Global Virus Network's testimony on Ebola to the U.S. Senate.","F1000Res","http://dx.doi.org/10.12688/f1000research.5954.1","25580240","F1000Res","F1000","Journal Article",0,0
+2015-01-12,"ebola","The F1000Research: Ebola article collection.","F1000Res","http://dx.doi.org/10.12688/f1000research.5685.1","25580233","F1000Res","F1000","Journal Article",0,0
+2015-01-15,"ebola","Ebola virus disease outbreak in Nigeria: transmission dynamics and rapid control","peerj","http://dx.doi.org/10.7287/peerj.preprints.569v3","25979285","Epidemics",NA,"Journal Article",0,1
+2015-01-22,"ebola","Forecasting and Uncertainty in Modeling the 2014-2015 Ebola Epidemic in West Africa","arxiv","http://arxiv.org/abs/1501.05555v3",NA,NA,NA,NA,NA,NA
+2015-01-27,"ebola","Ebola virus is evolving but not changing: no evidence for functional change in EBOV from 1976 to the 2014 outbreak","biorxiv","http://dx.doi.org/10.1101/014480","25880111","Virology",NA,"Journal Article",0,1
+2015-02-04,"ebola","Predicting the extinction of Ebola spreading in Liberia due to mitigation strategies","arxiv","http://arxiv.org/abs/1502.01326v5","26190582","Sci Rep","Springer Nature","Journal Article",0,1
+2015-02-09,"ebola","A common feature pharmacophore for FDA-approved drugs inhibiting the Ebola virus.","F1000Res","http://dx.doi.org/10.12688/f1000research.5741.2","25653841","F1000Res","F1000","Journal Article",0,1
+2015-02-25,"ebola","Small molecules with antiviral activity against the Ebola virus.","F1000Res","http://dx.doi.org/10.12688/f1000research.6120.1","25713700","F1000Res","F1000","Journal Article",0,1
+2015-02-26,"ebola","Virtual screen for repurposing approved and experimental drugs for candidate inhibitors of EBOLA virus infection.","F1000Res","http://dx.doi.org/10.12688/f1000research.6110.1","25717373","F1000Res","F1000","Journal Article",0,1
+2015-03-02,"ebola","Characterizing alpha helical properties of Ebola viral proteins as potential targets for inhibition of alpha-helix mediated protein-protein interactions.","F1000Res","http://dx.doi.org/10.12688/f1000research.5573.3","25717367","F1000Res","F1000","Journal Article",0,1
+2015-03-13,"ebola","Mathematical Modelling, Simulation, and Optimal Control of the 2014 Ebola Outbreak in West Africa","arxiv","http://arxiv.org/abs/1503.07396v1",NA,NA,NA,NA,NA,NA
+2015-03-23,"ebola","FDA approved drugs as potential Ebola treatments.","F1000Res","http://dx.doi.org/10.12688/f1000research.6164.2","25789163","F1000Res","F1000","Journal Article",0,0
+2015-03-24,"ebola","Ebola outbreak in West Africa: real-time estimation and multiple-wave prediction","arxiv","http://arxiv.org/abs/1503.06908v2","26280179","Math Biosci Eng",NA,"Journal Article",0,1
+2015-03-27,"ebola","New Routes to Phylogeography","arxiv","http://arxiv.org/abs/1503.08138v1","26267488","PLoS Genet","PLOS","Journal Article",0,1
+2015-04-01,"ebola","A Model of the Ebola Epidemics in West Africa Incorporating Age of Infection","arxiv","http://arxiv.org/abs/1504.00394v1","26536076","J Biol Dyn",NA,"Journal Article",0,1
+2015-04-02,"ebola","Eliciting Disease Data from Wikipedia Articles","arxiv","http://arxiv.org/abs/1504.00657v4","28721308","Proc Int AAAI Conf Weblogs Soc Media",NA,"Journal Article",0,1
+2015-04-06,"ebola","Progmosis: Evaluating Risky Individual Behavior During Epidemics Using Mobile Network Data","arxiv","http://arxiv.org/abs/1504.01316v1",NA,NA,NA,NA,NA,NA
+2015-04-11,"ebola","Data Science and Ebola","arxiv","http://arxiv.org/abs/1504.02878v1",NA,NA,NA,NA,NA,NA
+2015-05-06,"ebola","Rapid drop in the reproduction number during the Ebola outbreak in the Democratic Republic of Congo","peerj","http://dx.doi.org/10.7287/peerj.preprints.1041v1","26618087","PeerJ",NA,"Journal Article",0,1
+2015-05-14,"ebola","Modeling Contact Tracing in Outbreaks with Application to Ebola","arxiv","http://arxiv.org/abs/1505.03821v2","26297316","J Theor Biol",NA,"Journal Article",0,1
+2015-05-26,"ebola","Beyond Contact Tracing: Community-Based Early Detection for Ebola Response","arxiv","http://arxiv.org/abs/1505.07020v2","27486552","PLoS Curr","PLOS","Journal Article",0,1
+2015-06-03,"ebola","Rapid metagenomic identification of viral pathogens in clinical samples by real-time nanopore sequencing analysis","biorxiv","http://dx.doi.org/10.1101/020420","26416663","Genome Med",NA,"Journal Article",1,1
+2015-06-15,"ebola","Antiviral therapies against Ebola and other emerging viral diseases using existing medicines that block virus entry.","F1000Res","http://dx.doi.org/10.12688/f1000research.6085.2","26069727","F1000Res","F1000","Journal Article",1,1
+2015-06-22,"ebola","ISCB Ebola Award for Important Future Research on the Computational Biology of Ebola Virus.","F1000Res","http://dx.doi.org/10.12688/f1000research.6038.1","26097686","F1000Res","F1000","Journal Article",0,0
+2015-06-24,"ebola","Epitope specificity and protein signaling interactions driving epidemic occurrences of Ebola disease","F1000Res","http://dx.doi.org/10.12688/f1000research.6515.1",NA,"F1000Res","F1000",NA,NA,NA
+2015-07-13,"ebola","In silico analysis suggests repurposing of ibuprofen for prevention and treatment of EBOLA virus disease.","F1000Res","http://dx.doi.org/10.12688/f1000research.6436.1","26167272","F1000Res","F1000","Journal Article",0,1
+2015-07-30,"ebola","Modeling Spatial Invasion of Ebola in West Africa","arxiv","http://arxiv.org/abs/1507.08367v2","28551366","J Theor Biol",NA,"Journal Article",0,1
+2015-08-03,"ebola","Finding small molecules for the 'next Ebola'.","F1000Res","http://dx.doi.org/10.12688/f1000research.6181.2","25949804","F1000Res","F1000","Journal Article",0,1
+2015-08-09,"ebola","Facts and Fabrications about Ebola: A Twitter Based Study","arxiv","http://arxiv.org/abs/1508.02079v1",NA,NA,NA,NA,NA,NA
+2015-09-11,"ebola","Mapping phylogenetic trees to reveal distinct patterns of evolution","biorxiv","http://dx.doi.org/10.1101/026641","27343287",NA,NA,"Journal Article",0,1
+2015-09-13,"ebola","A general class of spreading processes with non-Markovian dynamics","arxiv","http://arxiv.org/abs/1509.03904v1",NA,NA,NA,NA,NA,NA
+2015-10-15,"ebola","From bee species aggregation to models of disease avoidance: The Ben-Hur effect","arxiv","http://arxiv.org/abs/1510.04364v2",NA,NA,NA,NA,NA,NA
+2015-10-21,"ebola","Hierarchy of knowledge translation: from health problems to ad-hoc drug design","arxiv","http://arxiv.org/abs/1510.06124v3","27530406","Curr Med Chem",NA,"Journal Article",0,0
+2015-10-26,"ebola","Assessing the Efficiency of \textit{Cordon Sanitaire} as a Control Strategy of Ebola","arxiv","http://arxiv.org/abs/1510.07415v1",NA,NA,NA,NA,NA,NA
+2015-11-06,"ebola","Modeling the case of early detection of Ebola virus disease","arxiv","http://arxiv.org/abs/1511.04027v1",NA,NA,NA,NA,NA,NA
+2015-11-07,"ebola","Network-Based Analysis of a Small Ebola Outbreak","arxiv","http://arxiv.org/abs/1511.02362v1","27879120","Math Biosci Eng",NA,"Journal Article",0,1
+2015-11-18,"ebola","Potential impact of sexual transmission of Ebola virus on the epidemic in West Africa","biorxiv","http://dx.doi.org/10.1101/031880","27135922","PLoS Negl Trop Dis","PLOS","Journal Article",0,1
+2015-11-19,"ebola","Predicting and controlling the Ebola infection","arxiv","http://arxiv.org/abs/1511.06323v1",NA,NA,NA,NA,NA,NA
+2015-11-20,"ebola","Shared genomic variants: identification of transmission routes using pathogen deep sequence data","biorxiv","http://dx.doi.org/10.1101/032458","29149252",NA,NA,"Journal Article",0,1
+2015-11-25,"zika","Spread of the pandemic Zika virus lineage is associated with NS1 codon usage adaptation in humans","biorxiv","http://dx.doi.org/10.1101/032839",NA,NA,NA,NA,NA,NA
+2015-12-04,"ebola","A generalized-growth model to characterize the early ascending phase of infectious disease outbreaks","arxiv","http://arxiv.org/abs/1512.01389v2","27266847",NA,NA,"Journal Article",0,1
+2015-12-09,"ebola","Approximated Analytical Solution to an Ebola Optimal Control Problem","arxiv","http://arxiv.org/abs/1512.02843v1",NA,NA,NA,NA,NA,NA
+2015-12-10,"ebola","Optimal control strategies for the spread of Ebola in West Africa","arxiv","http://arxiv.org/abs/1512.03395v1",NA,NA,NA,NA,NA,NA
+2015-12-16,"ebola","Reality Mining with Mobile Big Data: Understanding the Impact of Network Structure on Propagation Dynamics","arxiv","http://arxiv.org/abs/1512.05212v1",NA,NA,NA,NA,NA,NA
+2015-12-20,"ebola","Ebola impact and quarantine in a network model","arxiv","http://arxiv.org/abs/1512.06305v1",NA,NA,NA,NA,NA,NA
+2016-01-21,"ebola","Stochasticity and the limits to confidence when estimating R_0 of Ebola and other emerging infectious diseases","arxiv","http://arxiv.org/abs/1601.06829v1","27524644","J Theor Biol",NA,"Journal Article",0,1
+2016-01-23,"ebola","The 2013-2016 West African Ebola virus outbreak: Local contexts and future issues","peerj","http://dx.doi.org/10.7287/peerj.preprints.1678v1",NA,NA,NA,NA,NA,NA
+2016-01-28,"ebola","Sequential Monte Carlo Filtering Estimation of Ebola Progression in West Africa","arxiv","http://arxiv.org/abs/1601.07606v1",NA,NA,NA,NA,NA,NA
+2016-02-02,"ebola","The PDB database is a rich source of alpha-helical anti-microbial peptides to combat disease causing pathogens.","F1000Res","http://dx.doi.org/10.12688/f1000research.5802.2","26629331","F1000Res","F1000","Journal Article",0,0
+2016-02-07,"zika","Transmission dynamics of Zika virus in island populations: a modelling analysis of the 2013-14 French Polynesia outbreak","biorxiv","http://dx.doi.org/10.1101/038588","27186984","PLoS Negl Trop Dis","PLOS","Journal Article",0,1
+2016-02-09,"ebola","Bacterial sequences detected in 99 out of 99 serum samples from Ebola patients","biorxiv","http://dx.doi.org/10.1101/039107",NA,NA,NA,NA,NA,NA
+2016-02-12,"zika","Model-based projections of Zika virus infections in childbearing women in the Americas","biorxiv","http://dx.doi.org/10.1101/039610","27562260","Nat Microbiol","Springer Nature","Journal Article",0,1
+2016-02-18,"zika","A fractional order network model for ZIKA","biorxiv","http://dx.doi.org/10.1101/039917",NA,NA,NA,NA,NA,NA
+2016-02-18,"zika","Working with Zika and Usutu Viruses in Vitro","biorxiv","http://dx.doi.org/10.1101/040139","27541001","PLoS Negl Trop Dis","PLOS","Journal Article",1,1
+2016-02-19,"zika","ZIKA - How Fast Does This Virus Mutate ?","biorxiv","http://dx.doi.org/10.1101/040303","27029869","Dongwuxue Yanjiu",NA,"Journal Article",0,1
+2016-02-19,"zika","An ecological assessment of the pandemic threat of Zika virus","biorxiv","http://dx.doi.org/10.1101/040386","27564232","PLoS Negl Trop Dis","PLOS","Journal Article",0,1
+2016-02-23,"zika","Zika virus: A newly emergent vector-borne public health threat in the Americas","peerj","http://dx.doi.org/10.7287/peerj.preprints.1781v1",NA,NA,NA,NA,NA,NA
+2016-02-24,"zika","Predicting intensities of Zika infection and microcephaly using transmission intensities of other arboviruses","biorxiv","http://dx.doi.org/10.1101/041095",NA,NA,NA,NA,NA,NA
+2016-02-24,"ebola","Publications in PubMed on Ebola and the 2014 outbreak.","F1000Res","http://dx.doi.org/10.12688/f1000research.6206.2","26539291","F1000Res","F1000","Journal Article",0,1
+2016-02-26,"ebola","Structure, inhibition and regulation of two-pore channel TPC1 from Arabidopsis thaliana","biorxiv","http://dx.doi.org/10.1101/041400","26961658","Nature","Springer Nature","Journal Article",1,1
+2016-02-29,"zika","Zika Virus: Endemic Versus Epidemic Dynamics and Implications for Disease Spread in the Americas","biorxiv","http://dx.doi.org/10.1101/041897",NA,NA,NA,NA,NA,NA
+2016-03-01,"zika","Role of short-term dispersal on the dynamics of Zika virus","arxiv","http://arxiv.org/abs/1603.00442v3",NA,NA,NA,NA,NA,NA
+2016-03-01,"zika","The viral polymerase inhibitor 7-deaza-2'-C-methyladenosine is a potent inhibitor of in 1 vitro Zika virus replication and delays disease progression in a robust mouse infection model","biorxiv","http://dx.doi.org/10.1101/041905","27163257","PLoS Negl Trop Dis","PLOS","Journal Article",1,1
+2016-03-02,"zika","Times to Key Events in the Course of Zika Infection and their Implications for Surveillance: A Systematic Review and Pooled Analysis","biorxiv","http://dx.doi.org/10.1101/041913","27821887","Bull World Health Organ","WHO","Review",NA,NA
+2016-03-04,"zika","A susceptible mouse model for Zika virus infection","biorxiv","http://dx.doi.org/10.1101/042358","27149521","PLoS Negl Trop Dis","PLOS","Journal Article",1,1
+2016-03-06,"zika","Exploring miRNAs as the key to understand symptoms induced by ZIKA virus infection through a collaborative database.","biorxiv","http://dx.doi.org/10.1101/042382","27332714","PLoS Negl Trop Dis","PLOS","Journal Article",0,0
+2016-03-11,"zika","Comparative analysis of dengue and Zika outbreaks reveals differences by setting and virus","biorxiv","http://dx.doi.org/10.1101/043265","27926933","PLoS Negl Trop Dis","PLOS","Comparative Study",NA,NA
+2016-03-13,"zika","Zika virus impairs growth in human neurospheres and brain organoids","peerj","http://dx.doi.org/10.7287/peerj.preprints.1817v3","27064148","Science","Science","Journal Article",1,1
+2016-03-19,"zika","Zika Virus Disease: A Simple Model Approach to Rapid Impact Assessment","biorxiv","http://dx.doi.org/10.1101/044248",NA,NA,NA,NA,NA,NA
+2016-03-19,"zika","Antibody mediated epitope mimicry in the pathogenesis of Zika virus related disease","biorxiv","http://dx.doi.org/10.1101/044834",NA,NA,NA,NA,NA,NA
+2016-03-24,"zika","Isolation of infective Zika virus from urine and saliva of patients in Brazil","biorxiv","http://dx.doi.org/10.1101/045443","27341420","PLoS Negl Trop Dis","PLOS","Journal Article",1,1
+2016-03-30,"zika","A rhesus macaque model of Asia lineage Zika virus infection","biorxiv","http://dx.doi.org/10.1101/046334","27352279","Nat Commun","Springer Nature","Journal Article",1,1
+2016-03-30,"zika","Zika virus outbreak in the Americas: Is Aedes albopictus an overlooked culprit?","biorxiv","http://dx.doi.org/10.1101/044594","27729643","Emerg Microbes Infect","Springer Nature","Journal Article",0,1
+2016-03-31,"zika","The Impact of African and Brazilian Zika virus isolates on neuroprogenitors","biorxiv","http://dx.doi.org/10.1101/046599",NA,NA,NA,NA,NA,NA
+2016-04-03,"zika","Statistical Analysis of Zika Virus Correlation to Microcephaly","biorxiv","http://dx.doi.org/10.1101/046896",NA,NA,NA,NA,NA,NA
+2016-04-05,"zika","Potential for Zika virus to establish a sylvatic transmission cycle in the Americas","biorxiv","http://dx.doi.org/10.1101/047175","27977671","PLoS Negl Trop Dis","PLOS","Journal Article",0,1
+2016-04-13,"zika","A Possible Link Between Pyriproxyfen and Microcephaly","arxiv","http://arxiv.org/abs/1604.03834v1",NA,NA,NA,NA,NA,NA
+2016-04-13,"zika","Zika virus, a new threat for Europe?","biorxiv","http://dx.doi.org/10.1101/048454","27505002","PLoS Negl Trop Dis","PLOS","Journal Article",1,1
+2016-04-13,"zika","A Possible Link Between Pyriproxyfen and Microcephaly","biorxiv","http://dx.doi.org/10.1101/048538",NA,NA,NA,NA,NA,NA
+2016-04-14,"zika","Prevention and control of Zika fever as a mosquito-borne and sexually transmitted disease","arxiv","http://arxiv.org/abs/1604.04008v1","27312324","Sci Rep","Springer Nature","Journal Article",0,1
+2016-04-18,"zika","High-Throughput Sequencing of Transposable Elements Insertions Suggests Adaptive Evolution of the Invasive Asian Tiger Mosquito Towards Temperate Environments","biorxiv","http://dx.doi.org/10.1101/049197","28517033","Mol Ecol",NA,"Journal Article",1,1
+2016-04-20,"zika","Evaluation of Zika Vector Control Strategies Using Agent-Based Modeling","arxiv","http://arxiv.org/abs/1604.06121v2",NA,NA,NA,NA,NA,NA
+2016-04-20,"zika","First detection of Zika virus in neotropical primates in Brazil: a possible new reservoir.","biorxiv","http://dx.doi.org/10.1101/049395",NA,NA,NA,NA,NA,NA
+2016-04-24,"zika","Discovery of a persistent Zika virus lineage in Bahia, Brazil","biorxiv","http://dx.doi.org/10.1101/049916","27448188","Emerg Infect Dis",NA,"Journal Article",1,1
+2016-04-24,"zika","The Epidemiology and Transmissibility of Zika Virus in Girardot and San Andres Island, Colombia","biorxiv","http://dx.doi.org/10.1101/049957","27452806","Euro Surveill",NA,"Journal Article",1,1
+2016-04-25,"zika","Dengue Virus Antibodies Enhance Zika Virus Infection","biorxiv","http://dx.doi.org/10.1101/050112","28090318","Clin Transl Immunology","Springer Nature","Journal Article",1,1
+2016-04-26,"zika","Atypical viral dynamics from transport through popular places","arxiv","http://arxiv.org/abs/1604.07637v2","27627314","Phys Rev E",NA,"Journal Article",0,1
+2016-04-26,"zika","Comparative analysis of protein evolution and RNA structural changes in the genome of pre-epidemic and epidemic Zika virus","biorxiv","http://dx.doi.org/10.1101/050278","28315476","Infect Genet Evol",NA,"Journal Article",0,1
+2016-04-29,"zika","Zika Fetal Neuropathogenesis: Etiology of a Viral Syndrome","biorxiv","http://dx.doi.org/10.1101/050674","27560129","PLoS Negl Trop Dis","PLOS","Journal Article",0,1
+2016-05-02,"zika","Chloroquine inhibits Zika Virus infection in different cellular models","biorxiv","http://dx.doi.org/10.1101/051268","27916837","Viruses",NA,"Journal Article",1,1
+2016-05-02,"zika","Risk estimates for microcephaly related to Zika virus infection - from French Polynesia to Bahia, Brazil","biorxiv","http://dx.doi.org/10.1101/051060","27222919","N Engl J Med","NEJM","Journal Article",0,1
+2016-05-02,"zika","Mapping Zika virus infection using geographical information systems in Tolima, Colombia, 2015-2016.","F1000Res","http://dx.doi.org/10.12688/f1000research.8436.1","27134732","F1000Res","F1000","Journal Article",0,1
+2016-05-02,"zika","Open drug discovery for the Zika virus.","F1000Res","http://dx.doi.org/10.12688/f1000research.8013.1","27134728","F1000Res","F1000","Journal Article",0,0
+2016-05-03,"zika","Tracking Dengue Epidemics using Twitter Content Classification and Topic Modelling","arxiv","http://arxiv.org/abs/1605.00968v1",NA,NA,NA,NA,NA,NA
+2016-05-09,"zika","Combined proteome and transcriptome analyses reveal that Zika virus circulating in Brazil alters cell cycle and neurogenic programmes in human neurospheres","peerj","http://dx.doi.org/10.7287/peerj.preprints.2033v1","28112162","Sci Rep","Springer Nature","Journal Article",1,1
+2016-05-10,"zika","A Zika virus-associated microcephaly case with background exposure to STORCH agents","biorxiv","http://dx.doi.org/10.1101/052340",NA,NA,NA,NA,NA,NA
+2016-05-12,"zika","3D perception of maximum density zone on Ramachandran plots for Zika virus protein structures","biorxiv","http://dx.doi.org/10.1101/053074",NA,NA,NA,NA,NA,NA
+2016-05-12,"zika","search.bioPreprint: a discovery tool for cutting edge, preprint biomedical research articles","biorxiv","http://dx.doi.org/10.1101/052563","27508060","F1000Res","F1000","Journal Article",0,0
+2016-05-15,"zika","Preventing Zika virus infection during pregnancy by timing conception seasonally","peerj","http://dx.doi.org/10.7287/peerj.preprints.1818v3","27467271","PLoS Biol","PLOS","Journal Article",0,1
+2016-05-16,"zika","An end-to-end assembly of the Aedes aegypti genome","arxiv","http://arxiv.org/abs/1605.04619v2",NA,NA,NA,NA,NA,NA
+2016-05-17,"zika","Serological evidence for localized and persistent antibody response in Zika virus-positive neonates with microcephaly (Brazil, 2015)- a secondary analysis","biorxiv","http://dx.doi.org/10.1101/051326",NA,NA,NA,NA,NA,NA
+2016-05-18,"zika","Predicting intensities of Zika infection and microcephaly using transmission intensities of other arboviruses","zikaone","http://dx.doi.org/10.2471/BLT.16.174128",NA,NA,NA,NA,NA,NA
+2016-05-20,"zika","Disruption of human astn2 function by ZIKV ns4b gene as a molecular basis for Zika viral microcephaly","biorxiv","http://dx.doi.org/10.1101/054486",NA,NA,NA,NA,NA,NA
+2016-05-23,"zika","Zika virus phosphoproteome through the computational looking-glass and what we found there?","peerj","http://dx.doi.org/10.7287/peerj.preprints.2047v2",NA,NA,NA,NA,NA,NA
+2016-05-24,"zika","Possible repurposing of seasonal influenza vaccine for prevention of Zika virus infection.","F1000Res","http://dx.doi.org/10.12688/f1000research.8102.2","27158449","F1000Res","F1000","Journal Article",0,1
+2016-05-25,"zika","Zika in Rio de Janeiro: Assessment of basic reproduction number and comparison with dengue outbreaks","biorxiv","http://dx.doi.org/10.1101/055475","28240195","Epidemiol Infect",NA,"Comparative Study",NA,NA
+2016-05-26,"zika","Sexual transmission causes a marked increase in the incidence of Zika in women in Rio de Janeiro, Brazil.","biorxiv","http://dx.doi.org/10.1101/055459","27664930","Int J Infect Dis",NA,"Journal Article",0,1
+2016-05-27,"zika","An Outbreak Vector-host Epidemic Model with Spatial Structure: The 2015 Zika Outbreak in Rio de Janeiro","arxiv","http://arxiv.org/abs/1605.08726v2","28347332","Theor Biol Med Model",NA,"Journal Article",0,1
+2016-06-04,"zika","Estimate of the reproduction number of the 2015 Zika virus outbreak in Barranquilla, Colombia, and estimation of the relative role of sexual transmission","arxiv","http://arxiv.org/abs/1606.01422v3","27846442","Epidemics",NA,"Journal Article",0,1
+2016-06-07,"zika","Assessing real-time Zika risk in the United States","biorxiv","http://dx.doi.org/10.1101/056648","28468671","BMC Infect Dis",NA,"Journal Article",0,1
+2016-06-15,"zika","Zika Virus in the Human Placenta and Developing Brain: Cell Tropism and Drug Inhibition","biorxiv","http://dx.doi.org/10.1101/058883","27911847","Proc Natl Acad Sci U S A",NA,"Journal Article",1,1
+2016-06-17,"zika","Heterologous protection against Asian Zika virus challenge in rhesus macaques","biorxiv","http://dx.doi.org/10.1101/059592","27911897","PLoS Negl Trop Dis","PLOS","Journal Article",1,1
+2016-06-19,"zika","Analyzing climate variations on multiple timescales can guide Zika virus response measures","biorxiv","http://dx.doi.org/10.1101/059808","27716414","Gigascience",NA,"Journal Article",0,1
+2016-06-21,"zika","Extensive genetic differentiation between homomorphic sex chromosomes in the mosquito vector, Aedes aegypti","biorxiv","http://dx.doi.org/10.1101/060061",NA,NA,NA,NA,NA,NA
+2016-06-27,"zika","A Preliminary Mathematical Model for the Dynamic Transmission of Dengue, Chikungunya and Zika","arxiv","http://arxiv.org/abs/1606.08233v1",NA,NA,NA,NA,NA,NA
+2016-06-28,"zika","Virtual screening of inhibitors for the Zika virus proteins","biorxiv","http://dx.doi.org/10.1101/060798",NA,NA,NA,NA,NA,NA
+2016-07-01,"zika","Dysregulation of Long Non-coding RNA (lncRNA) Genes and Predicted lncRNA-protein Interactions during Zika Virus Infection","biorxiv","http://dx.doi.org/10.1101/061788",NA,NA,NA,NA,NA,NA
+2016-07-01,"zika","Differences in perceived severity of Zika virus infection and dengue fever and its influence on mosquito control practices in Malaysia, a dengue-endemic country","biorxiv","http://dx.doi.org/10.1101/061622","28238029","J Community Health",NA,"Journal Article",1,1
+2016-07-06,"zika","The clinically approved antiviral drug sofosbuvir impairs Brazilian zika virus replication","biorxiv","http://dx.doi.org/10.1101/061671","28098253","Sci Rep","Springer Nature","Journal Article",1,1
+2016-07-06,"zika","Kinetics of Zika virus persistence in semen","zikaone","http://dx.doi.org/10.2471/BLT.16.181370",NA,NA,NA,NA,NA,NA
+2016-07-08,"zika","Animals in the Zika virus life cycle: what to expect from megadiverse Latin American countries.","biorxiv","http://dx.doi.org/10.1101/062034","28005902","PLoS Negl Trop Dis","PLOS","Journal Article",0,1
+2016-07-09,"zika","A Potential Correlation Between the Temperature of the Pacific Ocean and Data from Google Trends May Yield a Warning Sign for the Outbreak of Zika","arxiv","http://arxiv.org/abs/1607.02581v1",NA,NA,NA,NA,NA,NA
+2016-07-14,"zika","Thequeenslandensisand thetypeform of the dengue fever mosquito (Aedes aegyptiL.) are genomically indistinguishable","biorxiv","http://dx.doi.org/10.1101/063792","27806047","PLoS Negl Trop Dis","PLOS","Comparative Study",NA,NA
+2016-07-15,"zika","Detecting the impact of temperature on transmission of Zika, dengue and chikungunya using mechanistic models","biorxiv","http://dx.doi.org/10.1101/063735","28448507","PLoS Negl Trop Dis","PLOS","Journal Article",0,1
+2016-07-15,"zika","Zika virus may not be alone: proteomics associates a bovine-like viral diarrhea virus to microcephaly","biorxiv","http://dx.doi.org/10.1101/062596",NA,NA,NA,NA,NA,NA
+2016-07-20,"zika","Structure in the variability of the basic reproductive number (R0) for Zika epidemics in the Pacific islands","biorxiv","http://dx.doi.org/10.1101/064949","27897973","Elife","eLife","Journal Article",0,1
+2016-07-24,"zika","Defining the risk of Zika and chikungunya virus transmission in human population centers of the eastern United States","biorxiv","http://dx.doi.org/10.1101/061382","28095405","PLoS Negl Trop Dis","PLOS","Journal Article",0,1
+2016-07-28,"zika","Confidence sets for phylogenetic trees","arxiv","http://arxiv.org/abs/1607.08288v2",NA,NA,NA,NA,NA,NA
+2016-07-28,"zika","Projected spread of Zika virus in the Americas","biorxiv","http://dx.doi.org/10.1101/066456","28442561","Proc Natl Acad Sci U S A",NA,"Journal Article",0,1
+2016-08-11,"zika","Simple visit behavior unifies complex Zika outbreaks","arxiv","http://arxiv.org/abs/1608.03605v2",NA,NA,NA,NA,NA,NA
+2016-08-18,"zika","Viral outbreaks involve destabilized evolutionary networks: evidence from Ebola, Influenza and Zika","biorxiv","http://dx.doi.org/10.1101/070102",NA,NA,NA,NA,NA,NA
+2016-08-21,"zika","Genome-wide prediction of microRNAs in Zika virus genomes reveals possible interactions with human genes involved in the nervous system development","biorxiv","http://dx.doi.org/10.1101/070656",NA,NA,NA,NA,NA,NA
+2016-08-22,"zika","Some Models for Epidemics of Vector-Transmitted Diseases","arxiv","http://arxiv.org/abs/1608.06242v1",NA,NA,NA,NA,NA,NA
+2016-08-23,"zika","Molecular signatures associated with ZIKV exposure in human cortical neural progenitors","biorxiv","http://dx.doi.org/10.1101/071183","27580721","Nucleic Acids Res",NA,"Journal Article",1,1
+2016-08-24,"zika","Quantifying the Survival Uncertainty of Wolbachia-infected Mosquitoes in a Spatial Model *","arxiv","http://arxiv.org/abs/1608.06792v4",NA,NA,NA,NA,NA,NA
+2016-08-25,"zika","Bovine Lactoferrin Activity Against Chikungunya and Zika Viruses","biorxiv","http://dx.doi.org/10.1101/071571","28699858","J Gen Virol",NA,"Journal Article",1,1
+2016-08-25,"zika","Laboratory strains of Aedes aegypti are Competent to Brazilian Zika virus","biorxiv","http://dx.doi.org/10.1101/071654","28187183","PLoS One","PLOS","Journal Article",1,1
+2016-08-30,"zika","Zika infection of neural progenitor cells perturbs transcription in neurodevelopmental pathways","biorxiv","http://dx.doi.org/10.1101/072439","28448519","PLoS One","PLOS","Journal Article",0,1
+2016-09-01,"zika","An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study.","F1000Res","http://dx.doi.org/10.12688/f1000research.9110.1","27583132","F1000Res","F1000","Journal Article",0,1
+2016-09-02,"zika","Zika virus replication in the mosquito Culex quinquefasciatus in Brazil","biorxiv","http://dx.doi.org/10.1101/073197","28790458","Emerg Microbes Infect","Springer Nature","Journal Article",1,1
+2016-09-02,"zika","Zika virus infection as a cause of congenital brain abnormalities and Guillain-Barre syndrome: systematic review","biorxiv","http://dx.doi.org/10.1101/073098","28045901","PLoS Med","PLOS","Journal Article",0,1
+2016-09-08,"zika","Perinatal neuroprotection update.","F1000Res","http://dx.doi.org/10.12688/f1000research.8546.1","27606053","F1000Res","F1000","Journal Article",0,1
+2016-09-11,"zika","Identification of quercetin from fruits to immediately fight Zika","biorxiv","http://dx.doi.org/10.1101/074559",NA,NA,NA,NA,NA,NA
+2016-09-19,"zika","The reproductive number of Zika in municipalities of Antioquia, Colombia: stratifying the potential transmission of an ongoing epidemic","arxiv","http://arxiv.org/abs/1609.05969v1","28686321","Trop Med Int Health",NA,"Journal Article",0,1
+2016-09-19,"zika","Comparison of African, Asian, and American Zika Viruses in Swiss Webster mice: Virulence, neutralizing antibodies, and serotypes","biorxiv","http://dx.doi.org/10.1101/075747",NA,NA,NA,NA,NA,NA
+2016-09-19,"zika","Discovery of flavivirus-derived endogenous viral elements in twoAnophelesmosquito genomes supports the existence ofAnopheles-associated insect-specific flaviviruses","biorxiv","http://dx.doi.org/10.1101/064907","28078104","Virus Evol",NA,"Journal Article",1,1
+2016-09-22,"zika","Dynamic forecasting of Zika epidemics using Google Trends","biorxiv","http://dx.doi.org/10.1101/076521","28060809","PLoS One","PLOS","Journal Article",0,1
+2016-09-26,"zika","Mathematical models of SIR disease spread with combined non-sexual and sexual transmission routes","arxiv","http://arxiv.org/abs/1609.08108v2",NA,NA,NA,NA,NA,NA
+2016-09-27,"zika","Data-driven identification of potential Zika virus vectors","biorxiv","http://dx.doi.org/10.1101/077966","28244371","Elife","eLife","Journal Article",0,1
+2016-09-27,"zika","Prevalence of Zika virus infection in wild African primates","biorxiv","http://dx.doi.org/10.1101/077628","28289727","mSphere",NA,"Journal Article",1,1
+2016-09-27,"zika","Human Endometrial Stromal Cells Are Highly Permissive To Productive Infection by Zika Virus","biorxiv","http://dx.doi.org/10.1101/077305","28281680","Sci Rep","Springer Nature","Journal Article",1,1
+2016-09-28,"zika","Unique properties of Zika NS2B-NS3pro complexes as decoded by experiments and MD simulations","biorxiv","http://dx.doi.org/10.1101/078113","28700665","PLoS One","PLOS","Journal Article",1,1
+2016-10-01,"zika","Identification of a Zika NS2B-NS3pro pocket susceptible to allosteric inhibition by small molecules including qucertin rich in edible plants","biorxiv","http://dx.doi.org/10.1101/078543",NA,NA,NA,NA,NA,NA
+2016-10-03,"zika","Rapid molecular detection of Zika virus in urine using the recombinase polymerase amplification assay","biorxiv","http://dx.doi.org/10.1101/078501","28239513","PLoS Curr","PLOS","Journal Article",1,1
+2016-10-04,"zika","A comparative analysis of Chikungunya and Zika transmission","biorxiv","http://dx.doi.org/10.1101/078923","28139388","Epidemics",NA,"Journal Article",0,1
+2016-10-04,"zika","Computational analysis of perturbations in the post-fusion Dengue virus envelope protein highlights known epitopes and conserved residues in the Zika virus.","F1000Res","http://dx.doi.org/10.12688/f1000research.8853.2","27540468","F1000Res","F1000","Journal Article",1,1
+2016-10-12,"zika","De novo assembly of viral quasispecies using overlap graphs","biorxiv","http://dx.doi.org/10.1101/080341","28396522","Genome Res",NA,"Journal Article",1,1
+2016-10-17,"zika","Navigating the Zika panic.","F1000Res","http://dx.doi.org/10.12688/f1000research.9370.1","27746903","F1000Res","F1000","Journal Article",0,1
+2016-10-19,"zika","Illustrating and homology modeling the proteins of the Zika virus.","F1000Res","http://dx.doi.org/10.12688/f1000research.8213.2","27746901","F1000Res","F1000","Journal Article",0,1
+2016-10-26,"zika","Plant expression systems, a budding way to confront chikungunya and Zika in developing countries?","F1000Res","http://dx.doi.org/10.12688/f1000research.9502.1","27781090","F1000Res","F1000","Journal Article",0,0
+2016-11-11,"zika","Mathematical models of SIR disease spread with combined non-sexual and sexual transmission routes","biorxiv","http://dx.doi.org/10.1101/087189",NA,NA,NA,NA,NA,NA
+2016-11-16,"zika","Livestock and microcephaly, traces of an association?","biorxiv","http://dx.doi.org/10.1101/087825",NA,NA,NA,NA,NA,NA
+2016-11-17,"zika","Zika mosquito vectors: the jury is still out.","F1000Res","http://dx.doi.org/10.12688/f1000research.9839.1","27853521","F1000Res","F1000","Journal Article",0,1
+2016-11-19,"zika","Solving the Model of the Risk of Microcephaly Induced by the Zika Virus (ZIKV) by a Modified Moving least Squares Method","arxiv","http://arxiv.org/abs/1611.06330v1",NA,NA,NA,NA,NA,NA
+2016-11-21,"zika","A location-specific spreadsheet for estimating Zika risk and timing for Zika vector surveillance, using U.S. military facilities as an example","biorxiv","http://dx.doi.org/10.1101/088823","28511272","US Army Med Dep J",NA,"Journal Article",0,1
+2016-11-27,"zika","Retargeting: an unrecognized consideration in endonuclease-based gene drive biology","biorxiv","http://dx.doi.org/10.1101/089946",NA,NA,NA,NA,NA,NA
+2016-11-30,"zika","Research into the Potential to Adapt and Establish of the invasive Asian Tiger Mosquito Aedes (Stegomyia) albopictus (SKUSE)","arxiv","http://arxiv.org/abs/1611.10318v1",NA,NA,NA,NA,NA,NA
+2016-11-30,"zika","The risk of sustained sexual transmission of Zika is underestimated","biorxiv","http://dx.doi.org/10.1101/090324",NA,NA,NA,NA,NA,NA
+2016-12-02,"zika","Zika antiviral chemotherapy: identification of drugs and promising starting points for drug discovery from an FDA-approved library.","F1000Res","http://dx.doi.org/10.12688/f1000research.9648.1","27909576","F1000Res","F1000","Journal Article",1,1
+2016-12-11,"zika","Deploying dengue-suppressing Wolbachia: robust models predict slow but effective spatial spread in Aedes aegypti","biorxiv","http://dx.doi.org/10.1101/093229","28411063","Theor Popul Biol",NA,"Journal Article",1,1
+2016-12-12,"zika","Modeling the spread of the Zika virus using topological data analysis","arxiv","http://arxiv.org/abs/1612.03554v4",NA,NA,NA,NA,NA,NA
+2016-12-27,"zika","Rescuing Hidden Ecological Data to Tackle Emerging Mosquito-Borne Diseases","biorxiv","http://dx.doi.org/10.1101/096875",NA,NA,NA,NA,NA,NA
+2016-12-31,"zika","Data-Driven Forecast of Dengue Outbreaks in Brazil: A Critical Assessment of Climate Conditions for Different Capitals","arxiv","http://arxiv.org/abs/1701.00166v1",NA,NA,NA,NA,NA,NA
+2016-12-31,"zika","Arabidopsis HAP2/GCS1 is a gamete fusion protein homologous to somatic and viral fusogens","biorxiv","http://dx.doi.org/10.1101/097568","28137780","J Cell Biol",NA,"Journal Article",0,0
+2017-01-09,"zika","Multiplex PCR method for MinION and Illumina sequencing of Zika and other virus genomes directly from clinical samples","biorxiv","http://dx.doi.org/10.1101/098913","28538739","Nat Protoc","Springer Nature","Journal Article",1,1
+2017-01-17,"zika","What Are People Tweeting about Zika? An Exploratory Study Concerning Symptoms, Treatment, Transmission, and Prevention","arxiv","http://arxiv.org/abs/1701.07490v1","28630032","JMIR Public Health Surveill",NA,"Journal Article",1,1
+2017-01-20,"zika","The burden of dengue and chikungunya in southern coastal Ecuador: Epidemiology, clinical presentation, and phylogenetics from a prospective study in Machala in 2014 and 2015","biorxiv","http://dx.doi.org/10.1101/102004",NA,NA,NA,NA,NA,NA
+2017-01-20,"zika","Epidemiological and ecological determinants of Zika virus transmission in an urban setting.","biorxiv","http://dx.doi.org/10.1101/101972",NA,NA,NA,NA,NA,NA
+2017-01-21,"zika","Experimental Zika Virus Infection in a New World Monkey Model Reproduces Key Features of the Human Disease","biorxiv","http://dx.doi.org/10.1101/102145",NA,NA,NA,NA,NA,NA
+2017-02-02,"zika","Epidemic establishment and cryptic transmission of Zika virus in Brazil and the Americas","biorxiv","http://dx.doi.org/10.1101/105171","28538727","Nature","Springer Nature","Journal Article",1,1
+2017-02-03,"zika","Multiple introductions of Zika virus into the United States revealed through genomic epidemiology","biorxiv","http://dx.doi.org/10.1101/104794","28538723","Nature","Springer Nature","Journal Article",1,1
+2017-02-03,"zika","Asian lineage of Zika virus RNA pseudoknot may induce ribosomal frameshift and produce a new neuroinvasive protein ZIKV-NS1'","biorxiv","http://dx.doi.org/10.1101/105809",NA,NA,NA,NA,NA,NA
+2017-02-08,"zika","Oropharyngeal mucosal transmission of Zika virus in rhesus macaques","biorxiv","http://dx.doi.org/10.1101/107128","28765581","Nat Commun","Springer Nature","Journal Article",1,1
+2017-02-11,"zika","Highly Efficient Maternal-Fetal Zika Virus Transmission in Pregnant Rhesus Macaques","biorxiv","http://dx.doi.org/10.1101/106674","28542585","PLoS Pathog","PLOS","Journal Article",1,1
+2017-02-12,"zika","Inferring a qualitative contact rate index of uncertain epidemics","biorxiv","http://dx.doi.org/10.1101/107474",NA,NA,NA,NA,NA,NA
+2017-02-18,"zika","Genome sequencing reveals Zika virus diversity and spread in the Americas","biorxiv","http://dx.doi.org/10.1101/109348","28538734","Nature","Springer Nature","Journal Article",1,1
+2017-02-21,"zika","Asymmetric percolation drives a double transition in sexual contact networks","arxiv","http://arxiv.org/abs/1702.06224v3","28790185","Proc Natl Acad Sci U S A",NA,"Journal Article",0,1
+2017-02-27,"zika","Estimating the reproductive number, total outbreak size, and reporting rates for Zika epidemics in South and Central America","arxiv","http://arxiv.org/abs/1702.08560v1","28803069","Epidemics",NA,"Journal Article",0,1
+2017-02-27,"zika","The social and spatial ecology of dengue presence and burden during an outbreak in Guayaquil, Ecuador, 2012","biorxiv","http://dx.doi.org/10.1101/112185",NA,NA,NA,NA,NA,NA
+2017-03-02,"zika","The translational landscape of Zika virus during infection of mammalian and insect cells","biorxiv","http://dx.doi.org/10.1101/112904",NA,NA,NA,NA,NA,NA
+2017-03-03,"zika","Genetic characterization of the Zika virus epidemic in the US Virgin Islands","biorxiv","http://dx.doi.org/10.1101/113100",NA,NA,NA,NA,NA,NA
+2017-03-05,"zika","Micro-Scale Transport Processes for Advanced Healthcare and Point of Care Diagnostics","biorxiv","http://dx.doi.org/10.1101/113787",NA,NA,NA,NA,NA,NA
+2017-03-07,"zika","The Case for Pyriproxyfen as a Potential Cause for Microcephaly; From Biology to Epidemiology","arxiv","http://arxiv.org/abs/1703.03765v1",NA,NA,NA,NA,NA,NA
+2017-03-10,"zika","The Case for Pyriproxyfen as a Potential Cause for Microcephaly; From Biology to Epidemiology","biorxiv","http://dx.doi.org/10.1101/115279",NA,NA,NA,NA,NA,NA
+2017-03-11,"zika","Recruiting from the network: discovering Twitter users who can help combat Zika epidemics","arxiv","http://arxiv.org/abs/1703.03928v1",NA,NA,NA,NA,NA,NA
+2017-03-13,"zika","Increasing Trends of Guillain-Barré Syndrome (GBS) and Dengue in Hong Kong","arxiv","http://arxiv.org/abs/1703.04238v1",NA,NA,NA,NA,NA,NA
+2017-03-15,"zika","Preliminary results on the control of Aedes spp. in a remote Guatemalan community vulnerable to dengue, chikungunya and Zika virus: community participation and use of low-cost ecological ovillantas for mosquito control.","F1000Res","http://dx.doi.org/10.12688/f1000research.8461.3","28105304","F1000Res","F1000","Journal Article",1,1
+2017-03-21,"zika","On the predictability of infectious disease outbreaks","arxiv","http://arxiv.org/abs/1703.07317v4",NA,NA,NA,NA,NA,NA
+2017-04-12,"zika","Can Zika Account For The Missing Babies?","biorxiv","http://dx.doi.org/10.1101/126557",NA,NA,NA,NA,NA,NA
+2017-04-14,"zika","The diversity, structure and function of heritable adaptive immunity sequences in the Aedes aegypti genome","biorxiv","http://dx.doi.org/10.1101/127498",NA,NA,NA,NA,NA,NA
+2017-04-18,"zika","Modeling Zika Virus Congenital Eye Disease: Differential Susceptibility of Fetal Retinal Progenitor Cells and iPSC-Derived Retinal Stem Cells to Zika Virus Infection","biorxiv","http://dx.doi.org/10.1101/128405",NA,NA,NA,NA,NA,NA
+2017-04-19,"zika","Comparative Genomics Shows That Viral Integrations Are Abundant And Express piRNAs In The Arboviral Vectors Aedes aegypti And Aedes albopictus","biorxiv","http://dx.doi.org/10.1101/128637","28676109","BMC Genomics",NA,"Journal Article",0,1
+2017-04-19,"zika","Pathogenesis of Zika Virus Infection via Rectal Route","biorxiv","http://dx.doi.org/10.1101/128876",NA,NA,NA,NA,NA,NA
+2017-04-20,"zika","Sofosbuvir protects Zika virus-infected mice from mortality, preventing short- and long-term sequela","biorxiv","http://dx.doi.org/10.1101/129197","28842610","Sci Rep","Springer Nature","Journal Article",1,1
+2017-05-08,"zika","Heat Shock Protein 70 (Hsp70) Is Involved In The Zika Virus Cellular Infection Process","biorxiv","http://dx.doi.org/10.1101/135350",NA,NA,NA,NA,NA,NA
+2017-05-09,"zika","A Neuropeptide Signaling System That Rapidly Enforces Paternity In The Aedes aegypti Mosquito","biorxiv","http://dx.doi.org/10.1101/136150",NA,NA,NA,NA,NA,NA
+2017-05-15,"zika","Social-Ecological Factors And Preventive Actions Decrease The Risk Of Dengue Infection At The Household-Level: Results From A Prospective Dengue Surveillance Study In Machala, Ecuador","biorxiv","http://dx.doi.org/10.1101/136382",NA,NA,NA,NA,NA,NA
+2017-05-16,"zika","Consensus and conflict among ecological forecasts of Zika virus outbreaks in the United States","biorxiv","http://dx.doi.org/10.1101/138396",NA,NA,NA,NA,NA,NA
+2017-05-19,"zika","Could The Recent Zika Epidemic Have Been Predicted?","biorxiv","http://dx.doi.org/10.1101/139253","28747901","Front Microbiol",NA,"Journal Article",0,1
+2017-05-26,"zika","A Possible Role Of Microglia In Zika Virus Infection Of The Fetal Human Brain","biorxiv","http://dx.doi.org/10.1101/142497",NA,NA,NA,NA,NA,NA
+2017-05-30,"zika","Anticipating Emerging Arboviruses: What Comes After Zika?","biorxiv","http://dx.doi.org/10.1101/143842",NA,NA,NA,NA,NA,NA
+2017-06-01,"zika","Structural Propensity Database Of Proteins","biorxiv","http://dx.doi.org/10.1101/144840",NA,NA,NA,NA,NA,NA
+2017-06-02,"zika","Detecting Local Zika Virus Transmission In The Continental United States: A Comparison Of Surveillance Strategies","biorxiv","http://dx.doi.org/10.1101/145102",NA,NA,NA,NA,NA,NA
+2017-06-14,"zika","Unintended Consequences and the Paradox of Control: Management of Emerging Pathogens with Age-Specific Virulence","biorxiv","http://dx.doi.org/10.1101/149773",NA,NA,NA,NA,NA,NA
+2017-06-19,"zika","Zika Virus in Salivary Glands of Five Different Species of Wild-Caught Mosquitoes from Mexico","biorxiv","http://dx.doi.org/10.1101/151951",NA,NA,NA,NA,NA,NA
+2017-06-29,"zika","Designing Anti-Zika Virus Peptides Derived from Predicted Human-Zika Virus Protein-Protein Interactions","biorxiv","http://dx.doi.org/10.1101/156695",NA,NA,NA,NA,NA,NA
+2017-06-30,"zika","Analysis of the Aedes albopictus C6/36 genome provides insight into cell line adaptations to in vitro viral propagation","biorxiv","http://dx.doi.org/10.1101/157081",NA,NA,NA,NA,NA,NA
+2017-07-12,"zika","Catching Zika Fever: Application of Crowdsourcing and Machine Learning for Tracking Health Misinformation on Twitter","arxiv","http://arxiv.org/abs/1707.03778v1",NA,NA,NA,NA,NA,NA
+2017-07-19,"zika","Integrated Human-Virus Metabolic Modelling Predicts Host-Based Antiviral Targets Against Chikungunya, Dengue and Zika Viruses","biorxiv","http://dx.doi.org/10.1101/165605",NA,NA,NA,NA,NA,NA
+2017-08-03,"zika","Mathematical modelling of zika virus in Brazil","arxiv","http://arxiv.org/abs/1708.01280v1",NA,NA,NA,NA,NA,NA
+2017-08-04,"zika","Climate change drives uncertain global shifts in potential distribution and seasonal risk of Aedes -transmitted viruses","biorxiv","http://dx.doi.org/10.1101/172221",NA,NA,NA,NA,NA,NA
+2017-08-09,"zika","Modeling the transmission of Wolbachia in mosquitoes for controlling mosquito-borne diseases","arxiv","http://arxiv.org/abs/1708.03025v1",NA,NA,NA,NA,NA,NA
+2017-08-09,"zika","Zika virus infection induces synthesis of Digoxin in glioblastoma cells","biorxiv","http://dx.doi.org/10.1101/174441",NA,NA,NA,NA,NA,NA
+2017-08-17,"zika","Replication of early and recent Zika virus isolates throughout mouse brain development","biorxiv","http://dx.doi.org/10.1101/177816",NA,NA,NA,NA,NA,NA
+2017-08-22,"zika","Global transcriptome analysis of Aedes aegypti mosquitoes in response to Zika virus infection","biorxiv","http://dx.doi.org/10.1101/179416",NA,NA,NA,NA,NA,NA
