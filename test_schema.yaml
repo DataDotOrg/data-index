@@ -1,0 +1,30 @@
+# user_data_schema.yaml
+
+users:
+  - id: 1                   # Unique identifier for the user (integer)
+    name: John Doe          # Full name (string)
+    email: john@example.com # Email address (string)
+    is_active: true         # Status of the user (boolean)
+    signup_date: 2023-07-15 # Date the user signed up (YYYY-MM-DD format)
+    roles:                  # List of roles assigned to the user
+      - admin
+      - editor
+    profile:                # Nested object with optional profile info
+      age: 30
+      country: USA
+      interests:
+        - hiking
+        - reading
+  - id: 2
+    name: Jane Smith
+    email: jane@example.com
+    is_active: false
+    signup_date: 2024-01-10
+    roles:
+      - viewer
+    profile:
+      age: 25
+      country: Canada
+      interests:
+        - photography
+        - music
